@@ -1,6 +1,6 @@
 # 🤖 Agente Avaliador de IA
 
-**Trabalho Final — Tópicos em Sistemas de Informação (Agentes)**  
+**Trabalho Final — Sistemas Multiagentes**  
 Universidade Federal do Ceará — UFC Quixadá · Sistemas de Informação · 2026
 
 ---
